@@ -46,16 +46,6 @@ This project consolidates budget, actual expenditure, forecast and welfare alloc
 - DAX
 - Microsoft Excel
 
-## Dashboard Preview
-
-### Departmental OPEX Monitoring Dashboard
-
-images/dashboard-main.png
-
-### Welfare Budget Monitoring
-
-images/dashboard-welfare.png
-
 ## Key Outcome
 
 Built an interactive reporting solution that enables stakeholders to monitor budget performance, track expenditure, identify overbudget risks and support financial planning through self-service analytics.
